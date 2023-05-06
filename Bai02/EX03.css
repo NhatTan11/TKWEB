@@ -1,1 +1,79 @@
+body{
+  
+
+}
+
+/* Global */
+.container{
+  color:brown;
+  background-color: black;
+
+}
+
+ul{
+ 
+
+}
+
+/* Header **/
+header{
+  
+
+}
+
+header a{
+  
+
+}
+
+header li{
+  
+
+}
+
+header #branding{
+  
+
+}
+
+header #branding h1{
+ 
+
+}
+
+header nav{
+  
+
+}
+
+header .highlight, header .current a{
+
+
+}
+
+header a:hover{
+  
+
+}
+
+.footer{
+  display: flex;
+  border: 2px solid red;
+  font-weight: 600 ;
+  
+}
+.HT{
+    /* padding: 45px; */
+    margin:10px 20px;
+    list-style: none;
+    color:red; 
+}
+.T{
+    background-color: aqua;
+    color: blue;
+}
+.K{
+    background-color: coral;
+    color: black;
+}
 
