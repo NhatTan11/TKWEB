@@ -1,75 +1,31 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
-    <title>Nhật Tân Web Design | Dịch vụ</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <div id="branding">
-                <h1><span class="highlight">Nhật Tân </span> Web Design</h1>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Trang chủ</a></li>
-                    <li><a href="tt.html">Thông tin</a></li>
-                    <li class="current"><a href="dv.html">Dịch vụ</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-    <section id="newsletter">
-        <div class="container">
-            <h1>Đăng ký để nhận thông báo mới từ chúng tôi</h1>
-            <form>
-                <input type="email" placeholder="Nhập Email...">
-                <button type="submit" class="button_1">Đăng ký</button>
-            </form>
-        </div>
-    </section>
-    <section id="main">
-        <div class="container">
-            <article id="main-col">
-                <h1 class="page-title">Các dịch vụ</h1>
-                <ul id="services">
-                    <li>
-                        <h3>Áo cao cấp</h3>
-                        <p> Áo sơ mi ngắn tay phom Perfect Fit suông rộng mặc thả ngoài mà vẫn đảm bảo độ lịch sự chỉn chu cho người mặc</p>
-                        <p>Giá: 850.000đ</p>
-                    </li>
-                    <li>
-                        <h3>Quần cao cấp</h3>
-                        <p>Quần âu phom Regular fit suông nhẹ, phù hợp với nhiều dáng người</p>
-                        <p>Giá: 850.000đ</p>
-                    </li>
-                </ul>
-            </article>
-            <aside id="sidebar">
-                <div class="dark">
-                    <h3>Liên hệ</h3>
-                    <form class="quote">
-                        <div>
-                            <label>Tên</label><br>
-                            <input type="text" placeholder="Tên">
-                        </div>
-                        <div>
-                            <label>Email</label><br>
-                            <input type="email" placeholder="Email">
-                        </div>
-                        <div>
-                            <label>Nội dung</label><br>
-                            <textarea placeholder="Nội dung"></textarea>
-                        </div>
-                        <button class="button_1" type="submit">Gửi</button>
-                    </form>
-                </div>
-            </aside>
-        </div>
-    </section>
-    <footer>
-        <p>Nhật Tân Web Deisgn, Copyright © 2023</p>
-    </footer>
-</body>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h2>Đăng Ký Để Nhận Thông Báo Từ Chúng Tôi</h2>
+        <input type="text" name="txtemail" value="Nhập Email">
+        <button>Đăng Ký</button>
+        <h2>Các Dịch Vụ</h2>
+        <ul>
+            <h4><li>Thiết Kế WEBSITE</li></h4>
+            <p>Tạo Website chuyên nghiệp, giá cả phải chăng cho cá nhân, Công Ty, Doanh Nghiệp hoặc tổ chức</p>
+            <h4>Gia :$1.000-$3.000</h4>
+            <h4><li>Bảo Trì WEBSITE</li></h4>
+            <p>Bảo trì WEBSITE chuyên nghiệp, giá cả phải chăng cho cá nhân, Công Ty, Doanh Nghiệp hoặc tổ chức</p>
+            <h4>Gia :$250 moi thang</h4>
+            <h4><li>Web Hosting</li></h4>
+            <p>Web Hosting chuyên nghiệp, giá cả phải chăng cho cá nhân, Công Ty, Doanh Nghiệp hoặc tổ chức</p>
+            <h4>Gia :$25 moi thang</h4>
+        </ul>
+        <h3>Liên Hệ</h3>
+        <label for="ten">Tên: </label>
+        <input type="text" value="Tên"><br>
+        <label for="Email">Email: </label>
+        <input type="text" value="Email"><br>
+        <label for="noidung">Nội Dung: </label>
+        <input type="text" value="Nội dung"><br>
+        <button>Gửi</button>
+    </body>
 </html>
