@@ -3,15 +3,16 @@
   <head>
     <meta charset="utf-8">
     <title>Nhật Tân Web Design | Trang chủ</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="body{.css">
   </head>
   <body>
-    <ul>
+    <ul class="body">
       <li><a href="Ex.html">Trang chủ</a></li>
-      <li><a href="Thông tin.html">Thông Tin</a></li>
-      <li><a href="Dich vu.html">Dịch vụ</a></li></li>
+      <li><a href="d.html">Thông Tin</a></li>
+      <li><a href="x.html">Dịch vụ</a></li></li>
     </ul>
-    <h1>Đăng ký để nhận thông báo mới từ chúng tôi</h1>
+    <div class="header">
+      <h1>Đăng ký để nhận thông báo mới từ chúng tôi</h1>
       <input type="email" placeholder="Nhập Email...">
       <button type="submit" class="button_1">Đăng ký</button>
       <h3>Các dịch vụ</h3>
@@ -29,6 +30,9 @@
       <p>Nội dung</p>
       <input type="Nội dung" placeholder="Nhập Nội dung...">
       <button type="submit" class="button_1">Gửi</button>
+    </div>
       <footer>
         <p>Nhật Tân Web Deisgn, Copyright &copy; 2022</p>
       </footer>
+  </body>
+</html>
