@@ -2,15 +2,14 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Nhật Tân Web Design | Dịch vụ</title>
+    <title>nhat tan Web Design | Dịch vụ</title>
     <link rel="stylesheet" href="style.css">
  </head>
- 
  <body>
   <header>
      <div class="container">
        <div id="branding">
-         <h1><span class="highlight">Nhật Tân</span> Web Design</h1>
+         <h1><span class="highlight">nhat tan</span> Web Design</h1>
        </div>
        <nav>
          <ul>
@@ -40,21 +39,21 @@
          Chúng tôi luôn lắng nghe nhu cầu, tạo ra những ý tưởng đột phá mới giúp hơn 2.300 khách hàng thành công. 
          </p>
          <p class="dark">
-Chúng tôi luôn lắng nghe nhu cầu, tạo ra những ý tưởng đột phá mới giúp những khách hàng thành công.
+Về sáng tạo, chúng tôi có hơn 10 năm kinh nghiệm xây dựng chiến lược web cho công ty, thương mại điện tử và tập đoàn. Về công nghệ, chúng tôi phát triển những trang web vượt trội, giải pháp e-commercial, quảng cáo web, dịch vụ web…
          </p>
        </article>
 
        <aside id="sidebar">
          <div class="dark">
            <h3>Dịch vụ chúng tôi</h3>
-           <p>Khách hàng luôn đòi hỏi những mẫu mã thời trang đẹp mắt nhất nên để cạnh tranh trên thị trường bạn buộc phải chủ động sáng tạo không ngừng để đáp ứng nhu cầu đó. Việc phải sáng tạo liên tục đôi khi có thể sẽ khiến bạn cảm thấy cạn kiệt năng lượng nhưng đó là bản chất của nghề nên bạn phải chấp nhận.</p>
+           <p>Chúng tôi cam kết cung cấp dịch vị tin cậy, chuyên nghiệp, phải chăng.</p>
          </div>
        </aside>
      </div>
    </section>
 
     <footer>
-     <p>Nhật Tân Web Deisgn, Copyright © 2023</p>
+     <p>nhat tan Web Deisgn, Copyright © 2023</p>
    </footer>
  
 
