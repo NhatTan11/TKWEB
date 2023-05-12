@@ -5,34 +5,29 @@
     <title>Nhật Tân Web Design | Trang chủ</title>
     <link rel="stylesheet" href="body{.css">
   </head>
-  <body>
-    <ul class="body">
-      <li><a href="Ex.html">Trang chủ</a></li>
-      <li><a href="d.html">Thông Tin</a></li>
-      <li><a href="x.html">Dịch vụ</a></li></li>
-    </ul>
-    <div class="header">
-      <h1>Đăng ký để nhận thông báo mới từ chúng tôi</h1>
-      <input type="email" placeholder="Nhập Email...">
-      <button type="submit" class="button_1">Đăng ký</button>
-      <h3>Các dịch vụ</h3>
-      <li>Áo cao cấp</li>
-      <p> Áo sơ mi ngắn tay phom Perfect Fit suông rộng mặc thả ngoài mà vẫn đảm bảo độ lịch sự chỉn chu cho người mặc</p>
-      <p>Giá: 850.000đ</p>
-      <li>Quần cao cấp</li>
-      <p>Quần âu phom Regular fit suông nhẹ, phù hợp với nhiều dáng người</p>
-      <p>Giá: 850.000đ</p>
-      <h3>Liên hệ</h3>
-      <p>Tên</p>
-      <input type="Tên" placeholder="Tên">
-      <p>Email</p>
-      <input type="email" placeholder="Nhập Email...">
-      <p>Nội dung</p>
-      <input type="Nội dung" placeholder="Nhập Nội dung...">
-      <button type="submit" class="button_1">Gửi</button>
-    </div>
-      <footer>
-        <p>Nhật Tân Web Deisgn, Copyright &copy; 2022</p>
-      </footer>
-  </body>
+    <body>
+        <h2>Đăng Ký Để Nhận Thông Báo Từ Chúng Tôi</h2>
+        <input type="text" name="txtemail" value="Nhập Email">
+        <button>Đăng Ký</button>
+        <h2>Các Dịch Vụ</h2>
+        <ul>
+            <h4><li>Thiết Kế WEBSITE</li></h4>
+            <p>Tạo Website chuyên nghiệp, giá cả phải chăng cho cá nhân, Công Ty, Doanh Nghiệp hoặc tổ chức</p>
+            <h4>Gia :$1.000-$3.000</h4>
+            <h4><li>Bảo Trì WEBSITE</li></h4>
+            <p>Bảo trì WEBSITE chuyên nghiệp, giá cả phải chăng cho cá nhân, Công Ty, Doanh Nghiệp hoặc tổ chức</p>
+            <h4>Gia :$250 moi thang</h4>
+            <h4><li>Web Hosting</li></h4>
+            <p>Web Hosting chuyên nghiệp, giá cả phải chăng cho cá nhân, Công Ty, Doanh Nghiệp hoặc tổ chức</p>
+            <h4>Gia :$25 moi thang</h4>
+        </ul>
+        <h3>Liên Hệ</h3>
+        <label for="ten">Tên: </label>
+        <input type="text" value="Tên"><br>
+        <label for="Email">Email: </label>
+        <input type="text" value="Email"><br>
+        <label for="noidung">Nội Dung: </label>
+        <input type="text" value="Nội dung"><br>
+        <button>Gửi</button>
+    </body>
 </html>
