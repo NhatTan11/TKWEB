@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Ngoc Nam Web Design | Dịch vụ</title>
+    <title>Nhật Tân Web Design | Dịch vụ</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -35,19 +35,14 @@
                 <h1 class="page-title">Các dịch vụ</h1>
                 <ul id="services">
                     <li>
-                        <h3>Thiết kế Website</h3>
-                        <p>Tạo website chuyên nghiệp, giá cả phải chăng cho cá nhân, công ty, doanh nghiệp hoặc tổ chức.</p>
-                        <p>Giá: $1,000 - $3,000</p>
+                        <h3>Áo cao cấp</h3>
+                        <p> Áo sơ mi ngắn tay phom Perfect Fit suông rộng mặc thả ngoài mà vẫn đảm bảo độ lịch sự chỉn chu cho người mặc</p>
+                        <p>Giá: 850.000đ</p>
                     </li>
                     <li>
-                        <h3>Bảo trì Website</h3>
-                        <p>Bảo trì website chuyên nghiệp, giá cả phải chăng cho cá nhân, công ty, doanh nghiệp hoặc tổ chức.</p>
-                        <p>Giá: $250 mỗi tháng</p>
-                    </li>
-                    <li>
-                        <h3>Web Hosting</h3>
-                        <p>Cung cấp hosting chuyên nghiệp, giá cả phải chăng cho cá nhân, công ty, doanh nghiệp hoặc tổ chức.</p>
-                        <p>Giá: $25 mỗi tháng</p>
+                        <h3>Quần cao cấp</h3>
+                        <p>Quần âu phom Regular fit suông nhẹ, phù hợp với nhiều dáng người</p>
+                        <p>Giá: 850.000đ</p>
                     </li>
                 </ul>
             </article>
@@ -74,7 +69,7 @@
         </div>
     </section>
     <footer>
-        <p>Ngoc Nam Web Deisgn, Copyright © 2023</p>
+        <p>Nhật  Web Deisgn, Copyright © 2023</p>
     </footer>
 </body>
 </html>
